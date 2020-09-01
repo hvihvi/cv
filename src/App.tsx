@@ -46,7 +46,7 @@ export default function App() {
         <ul>
           <li>Architecture du code</li>
           <li>Mise en place d'un design-system</li>
-          <li>Travaux de webperf (code-splitting)</li>
+          <li>Travaux de webperf (bundle, code-splitting)</li>
         </ul>
         Animation de la communauté front
         <ul>

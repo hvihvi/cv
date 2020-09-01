@@ -27,7 +27,8 @@ export default function App() {
           <li>Animation des rituels Kaizen journalier</li>
           <li>Onboarding de développeurs externes</li>
           <li>Prospection en binôme avec commercial</li>
-          <li>Livraison en flux tendu, expérimentation de process Lean</li>
+          <li>Livraison en flux tendu, process Lean</li>
+          <li>Mesure des temps et root cause analysis journalière</li>
         </ul>
         <h4>2017</h4>
         <ul>
@@ -38,7 +39,7 @@ export default function App() {
         Développements full stack (React, Java 8...) sur les nouveaux produits
         <ul>
           <li>Onboarding de nouveaux développeurs</li>
-          <li>Cadrage technique de l'internalisation du produit énergie</li>
+          <li>Encadrement technique de l'internalisation du produit énergie</li>
         </ul>
         <h4>2019</h4>
         Refonte des pages de résultats (React/Redux, scrum...)
@@ -49,7 +50,7 @@ export default function App() {
         </ul>
         Animation de la communauté front
         <ul>
-          <li>Présentation à l'équipe des sujets et nouveautés</li>
+          <li>Présentations à l'équipe des chantiers et nouveautés</li>
         </ul>
       </p>
       <hr />
